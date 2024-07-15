@@ -2,17 +2,6 @@
 
 LaneGuardian is a project dedicated to detecting vehicle cut-ins using computer vision and machine learning techniques. This project aims to enhance road safety by identifying and alerting about potential vehicle cut-ins in real-time. Contributions are welcome for algorithm development, data processing, and system integration.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ## Introduction
 
 LaneGuardian utilizes advanced computer vision and machine learning algorithms to detect vehicles that cut into lanes abruptly, which can be a common cause of accidents. By providing real-time alerts, this system aims to improve road safety and assist drivers in maintaining lane discipline.
