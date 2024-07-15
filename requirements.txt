@@ -1,0 +1,5 @@
+opencv-python-headless
+tensorflow==2.9.1
+keras==2.9.0
+torch torchvision torchaudio
+yolov5
