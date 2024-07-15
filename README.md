@@ -67,5 +67,4 @@ lanegardian/
 │   ├── detection.py
 │   └── main.py
 ├── requirements.txt
-├── LICENSE
 └── README.md ```
