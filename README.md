@@ -66,19 +66,17 @@ LaneGuardian utilizes advanced computer vision and machine learning algorithms t
 To start the LaneGuardian application, run:
 
 ```sh
-vehicle_cutin_detection/
-│
+lanegardian/
 ├── data/
-│   ├── train/
-│   └── val/
-│
-├── models/
-│   ├── __init__.py
-│   └── vehicle_cutin_model.py
-│
-├── utils/
-│   ├── __init__.py
-│   └── data_utils.py
-│
-└── vehicle_cutin_detection.py
-
+│   └── (place your dataset here)
+├── images/
+│   └── (place your images here)
+├── src/
+│   ├── data_preparation.py
+│   ├── model_definition.py
+│   ├── training.py
+│   ├── detection.py
+│   └── main.py
+├── requirements.txt
+├── LICENSE
+└── README.md ```
